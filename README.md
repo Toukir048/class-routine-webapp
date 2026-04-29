@@ -1,16 +1,45 @@
-# React + Vite
+# Class Routine Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern mobile-first class routine app built with React. It helps students check the current class, upcoming class, weekly routine, faculty name, room number, and class time using live internet time.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Live Bangladesh internet time
+- Current class detection
+- Upcoming class detection
+- Animated class progress indicator
+- Weekly routine page
+- Filter by day, subject, and faculty
+- Mobile-friendly bottom navbar
+- Smooth hover and active animations
+- About and contact pages
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- React Router
+- Tailwind CSS
+- DaisyUI
+- React Icons
+- World Time API
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/Toukir048/class-routine-app.git
+cd class-routine-app
+npm install
+npm run dev
+Developer
+
+Toukir Sarder
+
+GitHub: https://github.com/Toukir048
+
+Email: toukir.ugv@gmail.com
+
+Phone: 01794203048
+
+License
+
+This project is open-source and free to use.
