@@ -1,0 +1,154 @@
+{
+  "routine": [
+    {
+      "day": "Saturday",
+      "classes": [
+        {
+          "periodId": 1,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "faculty": "Meheadi Hasan Sifat",
+          "subject": "IOT",
+          "room": "306"
+        },
+        {
+          "periodId": 2,
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "faculty": "MD. Tariqul Islam",
+          "subject": "Computer Networking System",
+          "room": "205"
+        },
+        {
+          "periodId": 3,
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "faculty": "Partho Sarathi Sorkar",
+          "subject": "Machine Learning",
+          "room": "306"
+        },
+        {
+          "periodId": 4,
+          "startTime": "14:00",
+          "endTime": "15:00",
+          "faculty": "Meheadi Hasan Sifat",
+          "subject": "Graphics Design",
+          "room": "405"
+        },
+        {
+          "periodId": 5,
+          "startTime": "15:00",
+          "endTime": "16:00",
+          "faculty": "Akash Hasnat",
+          "subject": "Research Methodology",
+          "room": "405"
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "classes": [
+        {
+          "periodId": 1,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "faculty": "Meheadi Hasan Sifat",
+          "subject": "IOT",
+          "room": "303"
+        },
+        {
+          "periodId": 2,
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "faculty": "Akash Hasnat",
+          "subject": "Research Methodology",
+          "room": "306"
+        },
+        {
+          "periodId": 3,
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "faculty": "MD Miraj",
+          "subject": "Environment",
+          "room": "306"
+        },
+        {
+          "periodId": 4,
+          "startTime": "13:00",
+          "endTime": "14:00",
+          "faculty": "Meheadi Hasan Sifat",
+          "subject": "Graphics Design",
+          "room": "303"
+        }
+      ]
+    },
+    {
+      "day": "Monday",
+      "classes": [
+        {
+          "periodId": 1,
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "faculty": "MD Miraj",
+          "subject": "Environment",
+          "room": "307"
+        },
+        {
+          "periodId": 2,
+          "startTime": "12:00",
+          "endTime": "13:00",
+          "faculty": "Partho Sarathi Sorkar",
+          "subject": "Machine Learning",
+          "room": "203"
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "classes": [
+        {
+          "periodId": 1,
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "faculty": "Ahad Khan",
+          "subject": "Graphics Design Lab",
+          "room": "203/003"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "classes": [
+        {
+          "periodId": 1,
+          "startTime": "13:00",
+          "endTime": "15:00",
+          "faculty": "Ahad Khan",
+          "subject": "IOT Lab",
+          "room": "203/003"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "classes": [
+        {
+          "periodId": 1,
+          "startTime": "09:00",
+          "endTime": "12:00",
+          "faculty": "Galib Jaman",
+          "subject": "Machine Learning Lab",
+          "room": "204"
+        },
+        {
+          "periodId": 2,
+          "startTime": "12:00",
+          "endTime": "14:00",
+          "faculty": "Rahat Khan",
+          "subject": "Computer Networking Lab",
+          "room": "003"
+        }
+      ]
+    }
+  ]
+}
